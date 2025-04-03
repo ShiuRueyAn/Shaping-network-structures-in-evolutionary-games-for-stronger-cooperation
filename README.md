@@ -38,8 +38,6 @@ This directory contains the programming code used in the study. Below is a descr
 - **[Heat Graph Hybrid.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Heat%20graph_hybrid.ipynb)**  
   Uses numerical results from [Different u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20u.ipynb) to generate heatmaps like Figure 9.
 
-- **[Heat Graph Difference.ipynb]( 
-   
-https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Heat%20graph_difference.ipynb)**  
+- **[Heat Graph Difference.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Heat%20graph_difference.ipynb)**  
   Uses numerical results from [Different u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20u.ipynb) to generate heatmaps like Figure 10.
 
