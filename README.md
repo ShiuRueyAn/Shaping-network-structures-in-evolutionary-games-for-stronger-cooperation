@@ -2,7 +2,7 @@
 
 This repository contains the code, figures, and supplementary materials for the study titled above. For any additional questions, please contact the corresponding author.
 
-## [Figures](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/tree/main/Figure)
+## [Figure](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/tree/main/Figure)
 This directory contains the original figures presented in our paper.
 
 ## [Code](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/tree/main/Code)
@@ -30,14 +30,14 @@ This directory contains the programming code used in the study. Below is a descr
   Uses numerical results from [Different u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20u.ipynb) to plot figures like Figure 5, where `w` is fixed on both sides.
 
 - **[Compare_u and w.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Compare_u%20and%20w.ipynb)**  
-  Uses numerical results from [Different u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20u.ipynb) and [Different w.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20w.ipynb) to plot figures like Figure 2, with the left side fixing `w` and the right side fixing `u`.
+  Uses numerical results from [Different u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20u.ipynb) and [Different w.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20w.ipynb) to plot figures like [Figure 2](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Figure/Figure%202.pdf), with the left side fixing `w` and the right side fixing `u`.
 
 - **[Heat Graph Multi Strategies.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Heat%20graph_multi%20strategies.ipynb)**  
-  Uses numerical results from [Different u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20u.ipynb) to generate heatmaps like Figure 1.
+  Uses numerical results from [Different u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20u.ipynb) to generate heatmaps like [Figure 1](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Figure/Figure%201.pdf).
 
 - **[Heat Graph Hybrid.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Heat%20graph_hybrid.ipynb)**  
-  Uses numerical results from [Different u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20u.ipynb) to generate heatmaps like Figure 9.
+  Uses numerical results from [Different u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20u.ipynb) to generate heatmaps like [Figure 9](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Figure/Figure%209.pdf).
 
 - **[Heat Graph Difference.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Heat%20graph_difference.ipynb)**  
-  Uses numerical results from [Different u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20u.ipynb) to generate heatmaps like Figure 10.
+  Uses numerical results from [Different u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20u.ipynb) to generate heatmaps like [Figure 10](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Figure/Figure%2010.pdf).
 
