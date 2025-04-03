@@ -1,5 +1,10 @@
 # Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation
+This repo contains code, figure, and revision materials for the above study. Please contact the corresponding author for any further questions.
 
+## In Figure:
+You will find the original figures in our paper
 
-## In FigureA, international scm, and us scm folder:
-You will find figures in higher resolution.
+## In Code:
+You will find programming codes, correspond to each figure.
+
+Barabási–Albert graph 超連結
