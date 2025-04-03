@@ -27,7 +27,7 @@ This directory contains the programming code used in the study. Below is a descr
   Simulates and plots results for an initial d-regular graph.
 
 - **[Compare_u and u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Compare_u%20and%20u.ipynb)**  
-  Uses numerical results from [Different u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20u.ipynb) to plot figures like Figure 5, where `w` is fixed on both sides.
+  Uses numerical results from [Different u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20u.ipynb) to plot figures like [Figure 5](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Figure/Figure%205.pdf), where `w` is fixed on both sides.
 
 - **[Compare_u and w.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Compare_u%20and%20w.ipynb)**  
   Uses numerical results from [Different u.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20u.ipynb) and [Different w.ipynb](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Code/Different%20w.ipynb) to plot figures like [Figure 2](https://github.com/ShiuRueyAn/Shaping-network-structures-in-evolutionary-games-for-stronger-cooperation/blob/main/Figure/Figure%202.pdf), with the left side fixing `w` and the right side fixing `u`.
