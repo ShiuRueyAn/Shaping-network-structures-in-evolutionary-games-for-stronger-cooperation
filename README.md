@@ -2,9 +2,9 @@
 This repo contains code, figure, and revision materials for the above study. Please contact the corresponding author for any further questions.
 
 ## In Figure:
-You will find the original figures in our paper
+You will find the original figures in our paper.
 
 ## In Code:
 You will find programming codes, correspond to each figure.
 
-Barabási–Albert graph 超連結
+[點我前往 Google](https://www.google.com)
